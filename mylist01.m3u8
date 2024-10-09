@@ -4219,15 +4219,15 @@ http://canal.cdntv.com.br:80/robert123/robert123/512
 http://canal.cdntv.com.br:80/robert123/robert123/513
 #EXTINF:-1 group-title="Canais | Abertos",Canal do Boi
 http://canal.cdntv.com.br:80/robert123/robert123/514
-#EXTINF:-1 group-title="Canais | Abertos",teste unifibrame
+#EXTINF:-1 group-title="Canais | 24H",teste unifibrame
 http://canal.cdntv.com.br:80/robert123/robert123/517
-#EXTINF:-1 group-title="Canais | Abertos",teste unifibra me 2
+#EXTINF:-1 group-title="Canais | 24H",teste unifibra me 2
 http://canal.cdntv.com.br:80/robert123/robert123/518
-#EXTINF:-1 group-title="Canais | Abertos",teste unifibra me3
+#EXTINF:-1 group-title="Canais | 24H",teste unifibra me3
 http://canal.cdntv.com.br:80/robert123/robert123/519
-#EXTINF:-1 group-title="Canais | Abertos",teste unifibra me 3
+#EXTINF:-1 group-title="Canais | 24H",teste unifibra me 3
 http://canal.cdntv.com.br:80/robert123/robert123/520
-#EXTINF:-1 group-title="Canais | Abertos",teste unifbra me 5
+#EXTINF:-1 group-title="Canais | 24H",teste unifbra me 5
 http://canal.cdntv.com.br:80/robert123/robert123/521
 #EXTINF:-1,TV Rio Sul - Globo
 #EXTVLCOPT:network-caching=1000
