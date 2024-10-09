@@ -1157,6 +1157,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/380908
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/477
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO + FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18763
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS FHD¹" tvg-logo="http://7vnx.xyz/logos/hboplusfhd.png" group-title="Canais | HBO",HBO + FHD¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/42934
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS FHD²" tvg-logo="http://7vnx.xyz/logos/hboplusfhd.png" group-title="Canais | HBO",HBO + FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/22683
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO + UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21249
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO + HD
@@ -1167,6 +1171,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18765
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18766
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO 2 FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18755
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD¹" tvg-logo="http://7vnx.xyz/logos/hbo2fhd.png" group-title="Canais | HBO",HBO 2 FHD¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/42932
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD²" tvg-logo="http://7vnx.xyz/logos/hbo2fhd.png" group-title="Canais | HBO",HBO 2 FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/22680
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO 2 UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21246
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO 2 HD
@@ -1187,6 +1195,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18761
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18762
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18751
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD¹" tvg-logo="http://7vnx.xyz/logos/hbofhd.png" group-title="CANAIS | HBO",HBO FHD¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/45220
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD²" tvg-logo="http://7vnx.xyz/logos/hbofhd.png" group-title="CANAIS | HBO",HBO FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/22681
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO H265
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/121578
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO UHD
@@ -1199,6 +1211,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18753
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18754
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO MUNDI FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18771
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI FHD¹" tvg-logo="http://7vnx.xyz/logos/hbomundifhd.png" group-title="Canais | HBO",HBO MUNDI FHD¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/42931
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI FHD²" tvg-logo="http://7vnx.xyz/logos/hbomundifhd.png" group-title="Canais | HBO",HBO MUNDI FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/22682
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO MUNDI UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21254
 #EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO MUNDI HD
@@ -1567,6 +1583,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/720
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/740
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Action FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/615
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION FHD¹" tvg-logo="http://7vnx.xyz/logos/telecineactionfhd.png" group-title="Canais | Telecine",TELECINE ACTION FHD¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/18964
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION FHD²" tvg-logo="http://7vnx.xyz/logos/telecineactionfhd.png" group-title="Canais | Telecine",TELECINE ACTION FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/22711
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Action UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21279
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Action HD
@@ -1577,6 +1597,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/614
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/612
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Cult FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/620
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT FHD¹" tvg-logo="http://7vnx.xyz/logos/telecinecultfhd.png" group-title="Canais | Telecine",TELECINE CULT FHD¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/18965
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT FHD²" tvg-logo="http://7vnx.xyz/logos/telecinecultfhd.png" group-title="Canais | Telecine",TELECINE CULT FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/22712
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Cult UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21280
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Cult HD
@@ -1587,6 +1611,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/619
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/617
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Fun FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/625
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD MAX¹" tvg-logo="http://7vnx.xyz/logos/telecinefunfhdmax.png" group-title="Canais | Telecine",TELECINE FUN FHD MAX¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/18966
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD²" tvg-logo="http://7vnx.xyz/logos/telecinefunfhd.png" group-title="Canais | Telecine",TELECINE FUN FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/22713
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Fun UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21281
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Fun HD
@@ -1597,6 +1625,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/624
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/622
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Pipoca FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/630
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA FHD¹" tvg-logo="http://7vnx.xyz/logos/telecinepipocafhd.png" group-title="Canais | Telecine",TELECINE PIPOCA FHD¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/18967
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA FHD²" tvg-logo="http://7vnx.xyz/logos/telecinepipocafhd.png" group-title="Canais | Telecine",TELECINE PIPOCA FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/22714
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Pipoca UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21282
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Pipoca HD
@@ -1607,6 +1639,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/629
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/627
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Premium FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/635
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD¹" tvg-logo="http://7vnx.xyz/logos/telecinepremiumfhd.png" group-title="Canais | Telecine",TELECINE PREMIUM FHD¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/18968
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD²" tvg-logo="http://7vnx.xyz/logos/telecinepremiumfhd.png" group-title="Canais | Telecine",TELECINE PREMIUM FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/22715
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Premium UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21283
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Premium HD
@@ -1617,6 +1653,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/634
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/632
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Touch FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/589
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD¹" tvg-logo="http://7vnx.xyz/logos/telecinetouchfhd.png" group-title="Canais | Telecine",TELECINE TOUCH FHD¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/18969
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD²" tvg-logo="http://7vnx.xyz/logos/telecinetouchfhd.png" group-title="Canais | Telecine",TELECINE TOUCH FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/22716
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Touch UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21284
 #EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Touch HD
@@ -3047,6 +3087,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/290595
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/290596
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png",AMC FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/671
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD¹" tvg-logo="http://7vnx.xyz/logos/amcfhd.png" group-title="Canais | Filmes & Series",AMC FHD¹
+http://7go.xyz:8080/ivouk21outubro/ivo9765/45204
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD²" tvg-logo="http://7vnx.xyz/logos/amcfhd.png" group-title="Canais | Filmes & Series",AMC FHD²
+http://7go.xyz:8080/ivouk21outubro/ivo9765/160761
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png",AMC UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/59171
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png",AMC HD
@@ -4471,179 +4515,3 @@ http://canal.cdntv.com.br:80/robert123/robert123/513
 #EXTINF:-1,Canal do Boi
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/514
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQbhElwkCKV4QG6OtXmN7wResE.jpg",Prison Break: Em Busca da Verdade S01 E01
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351822.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cng0p8lg3dskrktVA2W9cJZePY4.jpg",Prison Break: Em Busca da Verdade S01 E02
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351823.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20fohpW2Ejt7urGtT13kZNUIOx5.jpg",Prison Break: Em Busca da Verdade S01 E03
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351824.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wisy312Z268mKZVlef0ha1tzfR.jpg",Prison Break: Em Busca da Verdade S01 E04
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351825.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CM0DS67oSyzkE4taeIz0XTpFCM.jpg",Prison Break: Em Busca da Verdade S01 E05
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351826.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gT1E2upvyF9xqsytAJ0ZfNUFYaL.jpg",Prison Break: Em Busca da Verdade S01 E06
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351827.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vNSXXbVpGOMDDV6ouL8NGMk1Df.jpg",Prison Break: Em Busca da Verdade S01 E07
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351828.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAgIvyh1Zo8jbq0T2gWZvI1JtCG.jpg",Prison Break: Em Busca da Verdade S01 E08
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351829.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDvbhxmkVsVk6OBnkE0T1uu5e8W.jpg",Prison Break: Em Busca da Verdade S01 E09
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351830.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQRQQfWAx0jYkHl2US6Eo6cLrrI.jpg",Prison Break: Em Busca da Verdade S01 E10
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351831.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypecLfyF59h5SI6OEnJ16o2mH40.jpg",Prison Break: Em Busca da Verdade S01 E11
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351832.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3j5LQEhX2IDIsuMXNhgbAKCot5.jpg",Prison Break: Em Busca da Verdade S01 E12
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351833.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVpUIPQNjiIEyxfTczlVR54ATh.jpg",Prison Break: Em Busca da Verdade S01 E13
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351834.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Dr7DQ3JDcOi88dUo80YrhcTqXN.jpg",Prison Break: Em Busca da Verdade S01 E14
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351835.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfi0DQAyzO3rErSe4E5zGuvh9W6.jpg",Prison Break: Em Busca da Verdade S01 E15
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351836.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWGdAraRfXFrzl2v05lWAtO9ouE.jpg",Prison Break: Em Busca da Verdade S01 E16
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351837.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZxy02ckE2ECqrAPdJlFUyEoPyL.jpg",Prison Break: Em Busca da Verdade S01 E17
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351838.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sM0fp6RLkQ6GhuYVztPcaqKArh.jpg",Prison Break: Em Busca da Verdade S01 E18
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351839.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NXfORU86UQ0EwVapt7t83OwEl1.jpg",Prison Break: Em Busca da Verdade S01 E19
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351840.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPUto9JOsWq4WIwp31ULg50kz0k.jpg",Prison Break: Em Busca da Verdade S01 E20
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351841.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7DWzywO6F6u0kR8P9Dx0v0b9P8.jpg",Prison Break: Em Busca da Verdade S01 E21
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351842.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xa9y9VbcVt8m7Mhu1ga025GHpcp.jpg",Prison Break: Em Busca da Verdade S01 E22
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351843.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqd2FKFmLaWStuDBsJP4ONo1uOL.jpg",Prison Break: Em Busca da Verdade S02 E01
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351844.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8Po4cLXpgFd0YtPhfb8zrMJSfR.jpg",Prison Break: Em Busca da Verdade S02 E02
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351845.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIIFNBesiD6RF8SwtgXnSLXJB1Y.jpg",Prison Break: Em Busca da Verdade S02 E03
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351846.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjjU3UfVmD9sGFPpNcPuhZAvtRU.jpg",Prison Break: Em Busca da Verdade S02 E04
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351847.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm51Lt7T7MWrb5wGj6APbD8LhBk.jpg",Prison Break: Em Busca da Verdade S02 E05
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351848.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPdhveQbyr0hvRZ80S3pDLsYxhL.jpg",Prison Break: Em Busca da Verdade S02 E06
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351849.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTPnWRNrqUbzE82DfBcSStkIeEh.jpg",Prison Break: Em Busca da Verdade S02 E07
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351850.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4zgs0Nlk3Qyk1LKybfesTp3V73.jpg",Prison Break: Em Busca da Verdade S02 E08
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351851.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6okhWGk3FQk5woMRA69IzPlK6q.jpg",Prison Break: Em Busca da Verdade S02 E09
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351852.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5ImimxDHnwto8171WJF0XObbGz.jpg",Prison Break: Em Busca da Verdade S02 E10
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351853.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/desLMwniMWRkOlJqQNG4cy2efhy.jpg",Prison Break: Em Busca da Verdade S02 E11
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351854.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD4SctUCOzvXWdmw87uhyBm7Kzu.jpg",Prison Break: Em Busca da Verdade S02 E12
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351855.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrlxuAvVITeiT294VgC1Ey32csg.jpg",Prison Break: Em Busca da Verdade S02 E13
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351856.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hSwN627Drniizi1YLsqTUAnk2S.jpg",Prison Break: Em Busca da Verdade S02 E14
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351857.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xp5L6zMYOR2n4lTSLOeYDx95ewQ.jpg",Prison Break: Em Busca da Verdade S02 E15
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351858.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFGJUPj5HHo5b6QRQiJgycvp96j.jpg",Prison Break: Em Busca da Verdade S02 E16
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351859.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ri8FabxmYQEvSSMcFq0isyfMVy.jpg",Prison Break: Em Busca da Verdade S02 E17
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351860.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdY4vkqDF2Ge5PJ5ONqPvA6OcDs.jpg",Prison Break: Em Busca da Verdade S02 E18
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351861.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yg3qGDUmoVRwUfg4cRCrlzrNs4O.jpg",Prison Break: Em Busca da Verdade S02 E19
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351862.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IxDUlDNZb7UC3ACspcVBTWklBs.jpg",Prison Break: Em Busca da Verdade S02 E20
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351863.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mpTg4IKIBGtvNVXoDSEgSNHqwj.jpg",Prison Break: Em Busca da Verdade S02 E21
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351864.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNKXtTjn8SicjfEVQF4KYKDVy8i.jpg",Prison Break: Em Busca da Verdade S02 E22
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351865.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otJA7f7KpJSxRWlPaKu8cerBQep.jpg",Prison Break: Em Busca da Verdade S03 E01
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351866.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipzUA2QptEhC7MgxN79IDwefqTd.jpg",Prison Break: Em Busca da Verdade S03 E02
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351867.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUw7paRMQjIBPyXdwGQfJY0DnHK.jpg",Prison Break: Em Busca da Verdade S03 E03
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351868.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6c8YBJMbixQPR7QLswBFkOFFvS8.jpg",Prison Break: Em Busca da Verdade S03 E04
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351869.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yTVajaBaHj5xsAoB0rkhkEKtzo.jpg",Prison Break: Em Busca da Verdade S03 E05
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351870.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raCjfYnAOj45XBoV089uKiQI7g6.jpg",Prison Break: Em Busca da Verdade S03 E06
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351871.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLsDX0YuHR5h78B9QKsXu6BqAlt.jpg",Prison Break: Em Busca da Verdade S03 E07
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351872.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbeCcjNUIwvbrGc91foOoRpkzet.jpg",Prison Break: Em Busca da Verdade S03 E08
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351873.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbZVk5IqsaovhSQEdaYVmH2bTn9.jpg",Prison Break: Em Busca da Verdade S03 E09
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351874.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNkeel2FbIxoiEKRuzOTmRtMGYA.jpg",Prison Break: Em Busca da Verdade S03 E10
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351875.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRP1lzyy7BEh9wfJXwomEIRlcqO.jpg",Prison Break: Em Busca da Verdade S03 E11
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351876.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jX4wSVMGrRd13iV6oYw82L9MkNb.jpg",Prison Break: Em Busca da Verdade S03 E12
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351877.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7ctRRBBxVmhb4uDzbfTTsgDBz6.jpg",Prison Break: Em Busca da Verdade S03 E13
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351878.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m9NR4LGfKTtLPq9g7oyQQ1g9sdx.jpg",Prison Break: Em Busca da Verdade S04 E01
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351879.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iSrw2c3KdkmoVgb0B8KFNYHMMH.jpg",Prison Break: Em Busca da Verdade S04 E02
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351880.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plz3KtCQuqC6FH5iQGsfAT08MwH.jpg",Prison Break: Em Busca da Verdade S04 E03
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351881.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gstdihLPhDfZw0lpTAIR8b2vtf7.jpg",Prison Break: Em Busca da Verdade S04 E04
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351882.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8EKiKnGeo5uwS6KYli3KWVlCeM.jpg",Prison Break: Em Busca da Verdade S04 E05
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351883.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9a014iJTTqOviaKVI69sfZYewqx.jpg",Prison Break: Em Busca da Verdade S04 E06
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351884.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHrnrefoZff6xfqO5msZA0l2bip.jpg",Prison Break: Em Busca da Verdade S04 E07
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351885.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xM3KghdXynfy3FaIr40QnVHWPyL.jpg",Prison Break: Em Busca da Verdade S04 E08
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351886.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXRO7sgEPXASjjixjD2RQQj99jv.jpg",Prison Break: Em Busca da Verdade S04 E09
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351887.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIqJe6AOCa7ZJaucQSkV0oUdZvv.jpg",Prison Break: Em Busca da Verdade S04 E10
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351888.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osccmKlIIf10OV7aLpv2IMyXaqz.jpg",Prison Break: Em Busca da Verdade S04 E11
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351889.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cn42lg5v8utJVhh5fbBcYL9UOtk.jpg",Prison Break: Em Busca da Verdade S04 E12
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351890.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaEdPgZlSXmIvwYyxAPVhLvHW3l.jpg",Prison Break: Em Busca da Verdade S04 E13
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351891.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hF5iHTTKCEiyncgPQEM2MdbCPR5.jpg",Prison Break: Em Busca da Verdade S04 E14
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351892.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7emb043VAUizQO4HulIHBkknkzF.jpg",Prison Break: Em Busca da Verdade S04 E15
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351893.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRObokwsH4R49NE2AYvjtrD7wiN.jpg",Prison Break: Em Busca da Verdade S04 E16
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351894.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Qi2FDKKaX2hfAkaSWkuajXJqCk.jpg",Prison Break: Em Busca da Verdade S04 E17
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351895.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEjpGUXrkEvV8L6l2R7WPHvmNLq.jpg",Prison Break: Em Busca da Verdade S04 E18
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351896.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTha4ieHNSwadoNEdPxONrnLTQQ.jpg",Prison Break: Em Busca da Verdade S04 E19
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351897.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7K9UkaFBoOsipOcrD3W1jvomYoZ.jpg",Prison Break: Em Busca da Verdade S04 E20
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351898.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fCNWm6Pqp4iZkqUG3AZeA2AmWZ.jpg",Prison Break: Em Busca da Verdade S04 E21
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351899.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg",Prison Break: Em Busca da Verdade S04 E22
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351900.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg",Prison Break: Em Busca da Verdade S05 E01
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351901.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIWt0XSI5lf8JzfZovyEd9EOdep.jpg",Prison Break: Em Busca da Verdade S05 E02
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351902.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8YPPydBfZeVG4Lk9wHyKC8NTAi.jpg",Prison Break: Em Busca da Verdade S05 E03
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351903.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDCQJ8AFqHFmSmytw3zwQb6Yzrk.jpg",Prison Break: Em Busca da Verdade S05 E04
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351904.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmn4lNsoelI97AJpJpPBaTss3M8.jpg",Prison Break: Em Busca da Verdade S05 E05
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351905.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbYBABw81gnyTPpBAl4MRnCwFUA.jpg",Prison Break: Em Busca da Verdade S05 E06
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351906.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeKnUr0NXeLlb8NrC0UJSa8Alsb.jpg",Prison Break: Em Busca da Verdade S05 E07
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351907.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJjw5noJPUdZ3XiNaIqbnDoT8eA.jpg",Prison Break: Em Busca da Verdade S05 E08
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351908.mp4
-#EXTINF:-1 group-title="Séries | Star +" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d21YkZrWDPGXzqvM4PVqWwU0vJN.jpg",Prison Break: Em Busca da Verdade S05 E09
-http://uniplay.proxytv.in:80/series/K8N7fg/7E5hyV/351909.mp4
