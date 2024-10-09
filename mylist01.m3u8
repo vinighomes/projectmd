@@ -249,6 +249,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/369566
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/250915
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png",A&E FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/666
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD¹" tvg-logo="http://7vnx.xyz/logos/aeefhd.png" group-title="Canais | Filmes & Series",A&E FHD¹
+http://7go.xyz:8080/5184317802/518431bsbm/18904
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD²" tvg-logo="http://7vnx.xyz/logos/aeefhd.png" group-title="Canais | Filmes & Series",A&E FHD²
+http://7go.xyz:8080/5184317802/518431bsbm/22636
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png",A&E UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21292
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png",A&E HD
@@ -289,6 +293,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/2606
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/367047
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png",AXN FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/676
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD¹" tvg-logo="http://7vnx.xyz/logos/axnfhd.png" group-title="Canais | Filmes & Series",AXN FHD¹
+http://7go.xyz:8080/5184317802/518431bsbm/45205
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD²" tvg-logo="http://7vnx.xyz/logos/axnfhd.png" group-title="Canais | Filmes & Series",AXN FHD²
+http://7go.xyz:8080/5184317802/518431bsbm/22640
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png",AXN UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21223
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png",AXN HD
@@ -577,6 +585,10 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/118751
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/242
 #EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg",FX FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/594
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD¹" tvg-logo="http://7vnx.xyz/logos/fxfhd.png" group-title="Canais | Star Channel",FX FHD¹
+http://7go.xyz:8080/5184317802/518431bsbm/22366
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD²" tvg-logo="http://7vnx.xyz/logos/fxfhd.png" group-title="Canais | Star Channel",FX FHD²
+http://7go.xyz:8080/5184317802/518431bsbm/22676
 #EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg",FX UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21243
 #EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://storage4you.net:2095/logoscanais/FX.jpg",FX HD
@@ -1535,6 +1547,8 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/706
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/704
 #EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/598
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD²" tvg-logo="http://7vnx.xyz/logos/starchannelfhd.png" group-title="Canais | Star Channel",STAR CHANNEL FHD²
+http://7go.xyz:8080/5184317802/518431bsbm/22671
 #EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel UHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/21238
 #EXTINF:-1 group-title="Canais | Star Channel" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel HD
