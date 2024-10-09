@@ -4229,229 +4229,229 @@ http://canal.cdntv.com.br:80/robert123/robert123/519
 http://canal.cdntv.com.br:80/robert123/robert123/520
 #EXTINF:-1 group-title="Canais | 24H",teste unifbra me 5
 http://canal.cdntv.com.br:80/robert123/robert123/521
-#EXTINF:-1,TV Rio Sul - Globo
+#EXTINF:-1 group-title="Canais | Abertos",TV Rio Sul - Globo
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/3
-#EXTINF:-1,TV Globo RJ
+#EXTINF:-1 group-title="Canais | Abertos",TV Globo RJ
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/10
-#EXTINF:-1,TV Globo SP
+#EXTINF:-1 group-title="Canais | Abertos",TV Globo SP
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/12
-#EXTINF:-1,SBT RJ
+#EXTINF:-1 group-title="Canais | Abertos",SBT RJ
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/22
-#EXTINF:-1,SBT SP
+#EXTINF:-1 group-title="Canais | Abertos",SBT SP
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/23
-#EXTINF:-1,Record Interior RJ
+#EXTINF:-1 group-title="Canais | Abertos",Record Interior RJ
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/24
-#EXTINF:-1,TV Galega
+#EXTINF:-1 group-title="Canais | Abertos",TV Galega
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/32
-#EXTINF:-1,Qwest TV
+#EXTINF:-1 group-title="Canais | Abertos",Qwest TV
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/35
-#EXTINF:-1,Next Radio Generation - NRG
+#EXTINF:-1 group-title="Canais | Abertos",Next Radio Generation - NRG
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/42
-#EXTINF:-1,CNN Brasil
+#EXTINF:-1 group-title="Canais | Noticias",CNN Brasil
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/45
-#EXTINF:-1,Cine Pipoca 03
+#EXTINF:-1 group-title="Canais | Filmes & Series",Cine Pipoca 03
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/49
-#EXTINF:-1,Jovem Pan News
+#EXTINF:-1 group-title="Canais | Noticias",Jovem Pan News
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/52
-#EXTINF:-1,Band News
+#EXTINF:-1 group-title="Canais | Noticias",Band News
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/53
-#EXTINF:-1,Euro News
+#EXTINF:-1 group-title="Canais | Noticias",Euro News
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/54
-#EXTINF:-1,Record RJ
+#EXTINF:-1 group-title="Canais | Abertos",Record RJ
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/56
-#EXTINF:-1,Record SP
+#EXTINF:-1 group-title="Canais | Abertos",Record SP
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/57
-#EXTINF:-1,My Time Movie
+#EXTINF:-1 group-title="Canais | Filmes & Series",My Time Movie
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/62
-#EXTINF:-1,TV Novo Tempo
+#EXTINF:-1 group-title="Canais | Abertos",TV Novo Tempo
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/64
-#EXTINF:-1,Gospel Movies
+#EXTINF:-1 group-title="Canais | Filmes & Series",Gospel Movies
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/66
-#EXTINF:-1,Band RJ
+#EXTINF:-1 group-title="Canais | Abertos",Band RJ
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/68
-#EXTINF:-1,RIT
+#EXTINF:-1 group-title="Canais | Abertos",RIT
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/70
-#EXTINF:-1,TV Cultura
+#EXTINF:-1 group-title="Canais | Abertos",TV Cultura
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/79
-#EXTINF:-1,Band SP
+#EXTINF:-1 group-title="Canais | Abertos",Band SP
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/88
-#EXTINF:-1,TV Globo Brasília
+#EXTINF:-1 group-title="Canais | Abertos",TV Globo Brasília
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/95
-#EXTINF:-1,AgroBrasilTV
+#EXTINF:-1 group-title="Canais | Abertos",AgroBrasilTV
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/97
-#EXTINF:-1,TV Brasil
+#EXTINF:-1 group-title="Canais | Abertos",TV Brasil
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/102
-#EXTINF:-1,Rede TV
+#EXTINF:-1 group-title="Canais | Abertos",Rede TV
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/106
-#EXTINF:-1,Polishop
+#EXTINF:-1 group-title="Canais | Abertos",Polishop
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/107
-#EXTINF:-1,IMPACT Wrestling
+#EXTINF:-1 group-title="Canais | Abertos",IMPACT Wrestling
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/108
-#EXTINF:-1,Canção Nova
+#EXTINF:-1 group-title="Canais | Abertos",Canção Nova
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/111
-#EXTINF:-1,partypoker TV
+#EXTINF:-1 group-title="Canais | Abertos",partypoker TV
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/119
-#EXTINF:-1,PokerStars Brasil
+#EXTINF:-1 group-title="Canais | Abertos",PokerStars Brasil
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/120
-#EXTINF:-1,TV Globo Bahia
+#EXTINF:-1 group-title="Canais | Abertos",TV Globo Bahia
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/130
-#EXTINF:-1,SBT Pará
+#EXTINF:-1 group-title="Canais | Abertos",SBT Pará
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/131
-#EXTINF:-1,Shoptime
+#EXTINF:-1 group-title="Canais | Abertos",Shoptime
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/133
-#EXTINF:-1,SBT Nacional
+#EXTINF:-1 group-title="Canais | Abertos",SBT Nacional
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/134
-#EXTINF:-1,SBT Interior SP
+#EXTINF:-1 group-title="Canais | Abertos",SBT Interior SP
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/135
-#EXTINF:-1,Retrô Cartoon Channel
+#EXTINF:-1 group-title="Canais | Desenhos",Retrô Cartoon Channel
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/152
-#EXTINF:-1,TV Gazeta
+#EXTINF:-1 group-title="Canais | Abertos",TV Gazeta
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/161
-#EXTINF:-1,Rede Mundial
+#EXTINF:-1 group-title="Canais | Abertos",Rede Mundial
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/162
-#EXTINF:-1,Tastemade Brasil
+#EXTINF:-1 group-title="Canais | Abertos",Tastemade Brasil
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/168
-#EXTINF:-1,GO Outside
+#EXTINF:-1 group-title="Canais | Abertos",GO Outside
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/171
-#EXTINF:-1,Clubbing TV
+#EXTINF:-1 group-title="Canais | 24H",Clubbing TV
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/178
-#EXTINF:-1,Combate Global
+#EXTINF:-1 group-title="Canais | Esportes",Combate Global
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/187
-#EXTINF:-1,Band Rio Interior
+#EXTINF:-1 group-title="Canais | Abertos",Band Rio Interior
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/189
-#EXTINF:-1,Web Tv Xtreme
+#EXTINF:-1 group-title="Canais | Abertos",Web Tv Xtreme
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/192
-#EXTINF:-1,Demais TV
+#EXTINF:-1 group-title="Canais | Abertos",Demais TV
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/195
-#EXTINF:-1,Canal Rural
+#EXTINF:-1 group-title="Canais | Abertos",Canal Rural
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/201
-#EXTINF:-1,Red Bull TV
+#EXTINF:-1 group-title="Canais | Abertos",Red Bull TV
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/202
-#EXTINF:-1,Rede Gospel
+#EXTINF:-1 group-title="Canais | Abertos",Rede Gospel
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/211
-#EXTINF:-1,TV Loading
+#EXTINF:-1 group-title="Canais | Filmes & Series",TV Loading
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/214
-#EXTINF:-1,TV Globo Minas
+#EXTINF:-1 group-title="Canais | Abertos",TV Globo Minas
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/246
-#EXTINF:-1,TV Globo Pernambuco
+#EXTINF:-1 group-title="Canais | Abertos",TV Globo Pernambuco
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/247
-#EXTINF:-1,TV Globo Nordeste
+#EXTINF:-1 group-title="Canais | Abertos",TV Globo Nordeste
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/248
-#EXTINF:-1,Geekdot - AniTV
+#EXTINF:-1 group-title="Canais | Abertos",Geekdot - AniTV
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/260
-#EXTINF:-1,TV Globo Maranhão
+#EXTINF:-1 group-title="Canais | Abertos",TV Globo Maranhão
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/277
-#EXTINF:-1,Rede CNT
+#EXTINF:-1 group-title="Canais | Abertos",Rede CNT
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/439
-#EXTINF:-1,Fight Network
+#EXTINF:-1 group-title="Canais | Abertos",Fight Network
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/440
-#EXTINF:-1,Revry Brasil
+#EXTINF:-1 group-title="Canais | Abertos",Revry Brasil
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/442
-#EXTINF:-1,Revry Brasil
+#EXTINF:-1 group-title="Canais | Abertos",Revry Brasil
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/442
-#EXTINF:-1,Revry Brasil
+#EXTINF:-1 group-title="Canais | Abertos",Revry Brasil
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/442
-#EXTINF:-1,TV Rede Clube - Globo
+#EXTINF:-1 group-title="Canais | Abertos",TV Rede Clube - Globo
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/448
-#EXTINF:-1,RPC Curitiba - Globo
+#EXTINF:-1 group-title="Canais | Abertos",RPC Curitiba - Globo
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/466
-#EXTINF:-1,SBT Paraná
+#EXTINF:-1 group-title="Canais | Abertos",SBT Paraná
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/467
-#EXTINF:-1,PlayTV
+#EXTINF:-1 group-title="Canais | Abertos",PlayTV
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/471
-#EXTINF:-1,Power Slap
+#EXTINF:-1 group-title="Canais | Abertos",Power Slap
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/479
-#EXTINF:-1,Receitas Fast
+#EXTINF:-1 group-title="Canais | Abertos",Receitas Fast
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/480
-#EXTINF:-1,SBT RN
+#EXTINF:-1 group-title="Canais | Abertos",SBT RN
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/483
-#EXTINF:-1,Record RN
+#EXTINF:-1 group-title="Canais | Abertos",Record RN
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/485
-#EXTINF:-1,My Time Movies
+#EXTINF:-1 group-title="Canais | Filmes & Series",My Time Movies
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/487
-#EXTINF:-1,Record News
+#EXTINF:-1 group-title="Canais | Noticias",Record News
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/493
-#EXTINF:-1,RedeRecord RN - TV Tropical
+#EXTINF:-1 group-title="Canais | Abertos",RedeRecord RN - TV Tropical
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/494
 #EXTINF:-1 group-title="Canais | Filmes & Series",SPACE HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/495
-#EXTINF:-1,Receitas Fast
+#EXTINF:-1 group-title="Canais | Abertos",Receitas Fast
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/497
-#EXTINF:-1,Canal Brasil HD
+#EXTINF:-1 group-title="Canais | Abertos",Canal Brasil HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/498
 #EXTINF:-1 group-title="Canais | Filmes & Series",TNT-NOVELAS HD
