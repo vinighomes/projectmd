@@ -4185,17 +4185,17 @@ http://canal.cdntv.com.br:80/robert123/robert123/495
 http://canal.cdntv.com.br:80/robert123/robert123/497
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://imaginariodigital.org.br/sites/default/files/imagens/empresas/logo-canal-brasil.png",Canal Brasil HD
 http://canal.cdntv.com.br:80/robert123/robert123/498
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://plataformas.news/online/nota_4956.jpg",TNT-NOVELAS HD
+#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="https://plataformas.news/online/nota_4956.jpg",TNT-NOVELAS HD
 http://canal.cdntv.com.br:80/robert123/robert123/496
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://s2-ug.ap4r.com/image-aigc-article/seoPic/origin/a54017008ed62defce03d47cd21535bae579c19f.png",TNT HD
+#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="https://s2-ug.ap4r.com/image-aigc-article/seoPic/origin/a54017008ed62defce03d47cd21535bae579c19f.png",TNT HD
 http://canal.cdntv.com.br:80/robert123/robert123/499
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://e7.pngegg.com/pngimages/172/337/png-clipart-logo-nick-jr-television-channel-nicktoons-nickelodeon-victorious-television-text.png",NICK BR HD
+#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="https://e7.pngegg.com/pngimages/172/337/png-clipart-logo-nick-jr-television-channel-nicktoons-nickelodeon-victorious-television-text.png",NICK BR HD
 http://canal.cdntv.com.br:80/robert123/robert123/500
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="https://w7.pngwing.com/pngs/537/26/png-transparent-paramount-s-paramount-channel-television-channel-film-others-television-blue-text.png",Paramount HD
 http://canal.cdntv.com.br:80/robert123/robert123/501
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png",Central Comedy HD
+#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png",Central Comedy HD
 http://canal.cdntv.com.br:80/robert123/robert123/502
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://e7.pngegg.com/pngimages/627/234/png-clipart-bb-optics-film-lab-logo-mtv-music-television-rap-miscellaneous-television.png",MTV Brasil HD
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://e7.pngegg.com/pngimages/627/234/png-clipart-bb-optics-film-lab-logo-mtv-music-television-rap-miscellaneous-television.png",MTV Brasil HD
 http://canal.cdntv.com.br:80/robert123/robert123/503
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png",ESPN HD
 http://canal.cdntv.com.br:80/robert123/robert123/504
@@ -4445,7 +4445,7 @@ http://canal.cdntv.com.br:80/robert123/robert123/493
 #EXTINF:-1,RedeRecord RN - TV Tropical
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/494
-#EXTINF:-1,SPACE HD
+#EXTINF:-1 group-title="Canais | Filmes & Series",SPACE HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/495
 #EXTINF:-1,Receitas Fast
@@ -4454,52 +4454,52 @@ http://canal.cdntv.com.br:80/robert123/robert123/497
 #EXTINF:-1,Canal Brasil HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/498
-#EXTINF:-1,TNT-NOVELAS HD
+#EXTINF:-1 group-title="Canais | Filmes & Series",TNT-NOVELAS HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/496
-#EXTINF:-1,TNT HD
+#EXTINF:-1 group-title="Canais | Filmes & Series",TNT HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/499
-#EXTINF:-1,NICK BR HD
+#EXTINF:-1 group-title="Canais | Desenhos",NICK BR HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/500
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 group-title="Canais | Filmes & Series",Paramount HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/501
-#EXTINF:-1,Central Comedy HD
+#EXTINF:-1 group-title="Canais | Filmes & Series",Central Comedy HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/502
-#EXTINF:-1,MTV Brasil HD
+#EXTINF:-1 group-title="Canais | Filmes & Series",MTV Brasil HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/503
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="Canais | Esportes",ESPN HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/504
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="Canais | Esportes",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/505
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 group-title="Canais | Esportes",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/506
-#EXTINF:-1,ESPN 5 HD
+#EXTINF:-1 group-title="Canais | Esportes",ESPN 5 HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/507
-#EXTINF:-1,Disney HD
+#EXTINF:-1 group-title="Canais | Desenhos",Disney HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/508
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1 group-title="Canais | Documentarios",National Geographic HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/509
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/510
-#EXTINF:-1,Discovery H & H
+#EXTINF:-1 group-title="Canais | Documentarios",Discovery H & H
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/511
-#EXTINF:-1,Discovey Turbo HD
+#EXTINF:-1 group-title="Canais | Esportes",Discovey Turbo HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/512
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="Canais | Filmes & Series",TLC HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/513
 #EXTINF:-1,Canal do Boi
