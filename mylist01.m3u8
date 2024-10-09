@@ -3931,7 +3931,7 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/272965
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/272966
 #EXTINF:-1 group-title="Canais | 24H" tvg-logo="http://storage4you.net:2095/logoscanais/DESENHOS-24-HORAS.png",[24H] As Aventuras do Batman 02
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/272967
-#EXTINF:-1 group-title="Canais | 24H" tvg-logo="http://storage4you.net:2095/logoscanais/LIVEYOUTUBE.png",Jogos de hoje HD
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://storage4you.net:2095/logoscanais/LIVEYOUTUBE.png",Jogos de hoje HD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/234252
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/SKYPLAY.png",CINE SKY PLAY 1
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/18253
@@ -4191,31 +4191,31 @@ http://canal.cdntv.com.br:80/robert123/robert123/496
 http://canal.cdntv.com.br:80/robert123/robert123/499
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://e7.pngegg.com/pngimages/172/337/png-clipart-logo-nick-jr-television-channel-nicktoons-nickelodeon-victorious-television-text.png",NICK BR HD
 http://canal.cdntv.com.br:80/robert123/robert123/500
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://w7.pngwing.com/pngs/537/26/png-transparent-paramount-s-paramount-channel-television-channel-film-others-television-blue-text.png",Paramount HD
+#EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="https://w7.pngwing.com/pngs/537/26/png-transparent-paramount-s-paramount-channel-television-channel-film-others-television-blue-text.png",Paramount HD
 http://canal.cdntv.com.br:80/robert123/robert123/501
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png",Central Comedy HD
 http://canal.cdntv.com.br:80/robert123/robert123/502
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://e7.pngegg.com/pngimages/627/234/png-clipart-bb-optics-film-lab-logo-mtv-music-television-rap-miscellaneous-television.png",MTV Brasil HD
 http://canal.cdntv.com.br:80/robert123/robert123/503
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png",ESPN HD
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png",ESPN HD
 http://canal.cdntv.com.br:80/robert123/robert123/504
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png",ESPN 2 HD
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png",ESPN 2 HD
 http://canal.cdntv.com.br:80/robert123/robert123/505
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 HD
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 HD
 http://canal.cdntv.com.br:80/robert123/robert123/506
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/ESPN5TV5Logo.png",ESPN 5 HD
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/ESPN5TV5Logo.png",ESPN 5 HD
 http://canal.cdntv.com.br:80/robert123/robert123/507
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney HD
+#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Discovery Kids HD
 http://canal.cdntv.com.br:80/robert123/robert123/508
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/National-Geographic-Logo-2016-presentee.png",National Geographic HD
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/National-Geographic-Logo-2016-presentee.png",National Geographic HD
 http://canal.cdntv.com.br:80/robert123/robert123/509
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/02/Discovery-Channel-Logo.png",Discovery HD
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/02/Discovery-Channel-Logo.png",Discovery HD
 http://canal.cdntv.com.br:80/robert123/robert123/510
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png",Discovery H & H
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png",Discovery H & H
 http://canal.cdntv.com.br:80/robert123/robert123/511
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://e7.pngegg.com/pngimages/165/148/png-clipart-discovery-turbo-television-channel-discovery-channel-logo-others-miscellaneous-television.png",Discovey Turbo HD
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://e7.pngegg.com/pngimages/165/148/png-clipart-discovery-turbo-television-channel-discovery-channel-logo-others-miscellaneous-television.png",Discovey Turbo HD
 http://canal.cdntv.com.br:80/robert123/robert123/512
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png",TLC HD
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png",TLC HD
 http://canal.cdntv.com.br:80/robert123/robert123/513
 #EXTINF:-1 group-title="Canais | Abertos",Canal do Boi
 http://canal.cdntv.com.br:80/robert123/robert123/514
