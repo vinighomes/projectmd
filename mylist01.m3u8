@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
+#EXTINF:-1 group-title="Canais | Desenhos" ,Unknown_1
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/217926
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/SPORTV.png",SPORTV 4K
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284576
@@ -4502,6 +4502,6 @@ http://canal.cdntv.com.br:80/robert123/robert123/512
 #EXTINF:-1 group-title="Canais | Filmes & Series",TLC HD
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/513
-#EXTINF:-1,Canal do Boi
+#EXTINF:-1 group-title="Canais | Abertos",Canal do Boi
 #EXTVLCOPT:network-caching=1000
 http://canal.cdntv.com.br:80/robert123/robert123/514
