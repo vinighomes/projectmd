@@ -1,70 +1,74 @@
 #EXTM3U
 #EXTINF:-1 group-title="Canais | Desenhos" ,Unknown_1
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/217926
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/SPORTV.png",SPORTV 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284576
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/SPORTV.png",SPORTV 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/183
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="Canais | 4K",A&E 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/225
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png",Premiere Clubes 4K
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284578
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png",Premiere 2 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284579
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png",ESPN3 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284580
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png",ESPN4 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284581
+#EXTINF:-1 tvg-id="Premiere HD2" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png",Premiere 2 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/149
+#EXTINF:-1 tvg-id="ESPN 3" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png",ESPN3 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/127
+#EXTINF:-1 tvg-id="ESPN 4" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png",ESPN4 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/142
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/FOXSPORTS.png",FOX SPORTS 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284582
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/1268
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/FOXSPORTS.png",FOX Sports 2 4K
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284583
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png",ESPN 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284584
+#EXTINF:-1 tvg-id="ESPN" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png",ESPN 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/130
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png",ESPN Extra 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284585
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",GLOBO SP 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284587
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBONEWS.png",GloboNews 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284589
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png",BAND SP 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284590
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png",CNN Brasil 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284591
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png",Jovem Pan News 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284593
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png",Universal TV 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284596
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Action 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284597
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Pipoca 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284598
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Premium 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284599
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png",AXN 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284601
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png",AMC  4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284602
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284603
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png",Disc. Home &  Health 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284604
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png",Disc. Channe 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284605
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png",Animal Planet 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284607
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284611
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284612
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/133
+#EXTINF:-1 tvg-id="Globo SP HD" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",GLOBO SP 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/511
+#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBONEWS.png",Globo News 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/498
+#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png",BAND SP 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/484
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png",CNN Brasil 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/433
+#EXTINF:-1 tvg-id="Jovem Pan News" group-title="Canais | 4K" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png",Jovem Pan News 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/847
+#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png",Universal TV 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/289
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Action 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/294
+#EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Pipoca 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/303
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png",Telecine Premium 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/306
+#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png",AXN 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/233
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png",AMC  4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/228
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/251
+#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png",Disc. Home &  Health 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/67
+#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png",Disc. Channe 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/65
+#EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png",Animal Planet 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/61
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/346
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/281
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/CURTA!.jpg",Curta! 4K
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284614
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png",Disc. Home &  Health
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284615
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/VIVA.png",Viva 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284616
+#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png",Disc. Home &  Health
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/1021
+#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/VIVA.png",Viva 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/114
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png",TNT Series 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284617
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTURBO.png",Disc. Turbo 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284618
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/COMEDYCENTRAL.png",Comedy Central 4K
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/284620
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/314
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT 4K" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="Canais | 4K",TNT 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/312
+#EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTURBO.png",Disc. Turbo 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/75
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" group-title="Canais | 4K" tvg-logo="http://storage4you.net:2095/logoscanais/COMEDYCENTRAL.png",Comedy Central 4K
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/99
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/SBT.png",SBT+ Silvio Santos
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/390581
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/SBT.png",SBT+ Novelas
@@ -211,8 +215,8 @@ http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/274650
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/274651
 #EXTINF:-1 group-title="Canais | Pay-Per-View" tvg-logo="https://cdn.vox-cdn.com/thumbor/LCrrR5RpncC9JJ5G9nSEp87JST0=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22868679/ESA_2581_copia.jpg",Leagues Cup FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/231032
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png",Band Sports 4K UHD
-http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/234278
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" group-title="Canais | Esportes" tvg-logo="http://storage4you.net:2095/logoscanais/BANDSPORTS.png",Band Sports 4K UHD
+http://authxplus-2.xyz:2082/Xplus-1-6AC4ujWcJP/ktYU2lFbi0/120
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png",TNT Novelas FHD
 http://uniplay.proxytv.in:80/K8N7fg/7E5hyV/264555
 #EXTINF:-1 group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png",TNT Novelas  HD
