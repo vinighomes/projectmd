@@ -2081,8 +2081,10 @@ http://uniplay.proxytv.in:80/movie/leonardo4249/a980069/399153.mp4
 http://uniplay.proxytv.in:80/movie/leonardo4249/a980069/399154.mp4
 #EXTINF:-1 group-title="Canais | Shows" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A14vDgS4jVZaV0Qk85MFBbu9gqj.jpg",Ruback no Rock in Rio 2024
 http://uniplay.proxytv.in:80/movie/leonardo4249/a980069/399155.mp4
-#EXTINF:-1 group-title="Canais | 24H",24H Tokusato
+#EXTINF:-1 group-title="Canais | 24H" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" ,24H Tokusato
 http://uniplay.proxytv.in:80/leonardo4249/a980069/388486
+#EXTINF:-1 group-title="Canais | 24H" tvg-logo="https://cdnb.artstation.com/p/assets/images/images/036/876/503/large/cat-garrett-samuelleyva188-city-view-1080-x-1080px.jpg", 24H Lofi
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729146912/ei/wFsQZ-6lKsLf-LAPtOKr6A8/ip/187.109.150.129/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241484/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51300761%2C51312688/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPUYkgRundol3GzoYosn0x2qJnQeCQ5ZPJLLaeHM3GajAiEA6GxY447KDjePc7ZtDIMvKd_avO4zssgr-LvScZMw9uo%3D/file/index.m3u8
 #EXTINF:-1 group-title="Canais | 24H" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png",24H] Pegadinhas Joao kleber
 http://uniplay.proxytv.in:80/leonardo4249/a980069/231027
 #EXTINF:-1 group-title="Canais | 24H" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png",[24H] Chaves 1
