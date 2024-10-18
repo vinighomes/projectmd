@@ -1279,14 +1279,6 @@ http://uniplay.proxytv.in:80/leonardo4249/a980069/2625
 http://uniplay.proxytv.in:80/leonardo4249/a980069/2626
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png",HGTV SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/2624
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History 2 FHD
-http://m.70.ms:80/51992993566/qwe2131/7056
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History 2 UHD
-http://uniplay.proxytv.in:80/leonardo4249/a980069/21322
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History 2 HD
-http://uniplay.proxytv.in:80/leonardo4249/a980069/2620
-#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History 2 SD
-http://uniplay.proxytv.in:80/leonardo4249/a980069/2619
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History FHD
 http://m.70.ms:80/51992993566/qwe2131/16844
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History UHD
@@ -1297,6 +1289,14 @@ http://uniplay.proxytv.in:80/leonardo4249/a980069/2615
 http://uniplay.proxytv.in:80/leonardo4249/a980069/2616
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/2614
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History 2 FHD
+http://m.70.ms:80/51992993566/qwe2131/7056
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History 2 UHD
+http://uniplay.proxytv.in:80/leonardo4249/a980069/21322
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History 2 HD
+http://uniplay.proxytv.in:80/leonardo4249/a980069/2620
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png",History 2 SD
+http://uniplay.proxytv.in:80/leonardo4249/a980069/2619
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png",ID FHD
 http://m.70.ms:80/51992993566/qwe2131/28643
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png",ID UHD
