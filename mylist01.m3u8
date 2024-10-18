@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Canais | 24H" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" ,24H Tokusato
 http://uniplay.proxytv.in:80/leonardo4249/a980069/388486
-#EXTINF:-1 group-title="Canais | 24H" tvg-logo="https://cdnb.artstation.com/p/assets/images/images/036/876/503/large/cat-garrett-samuelleyva188-city-view-1080-x-1080px.jpg", 24H Lofi
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729308702/ei/vtMSZ-vSEauY1sQPxOro2As/ip/187.109.151.144/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303820/txs/51303818%2C51303819%2C51303820%2C51303821/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51312688/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgUzEAct-2SzWVfSW1CjTzprEoGGq7t6b8Jpz32FI9U28CIDIYT4dHuqlWVBc-VzVMUqrCixiwHaiQP9SgMSblCn5o/file/index.m3u8
 #EXTINF:-1 group-title="Canais | 24H" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png",24H] Pegadinhas Joao kleber
 http://uniplay.proxytv.in:80/leonardo4249/a980069/231027
 #EXTINF:-1 group-title="Canais | 24H" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png",[24H] Chaves 1
