@@ -895,15 +895,15 @@ http://m.70.ms:80/Ezequiel521/20202019Tv/21102
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364780
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://miro.medium.com/v2/resize:fit:1400/1*XB1B9pmScDpwUsH_hqdbpw.jpeg",Tv Acritica HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/244119
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDEBRASIL.jpg",Rede Brasil FHD
+#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDEBRASIL.jpg",Rede Brasil FHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364783
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDEBRASIL.jpg",Rede Brasil UHD
+#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDEBRASIL.jpg",Rede Brasil UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364784
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDEBRASIL.jpg",Rede Brasil HD
+#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDEBRASIL.jpg",Rede Brasil HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/46992
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDEBRASIL.jpg",Rede Brasil HD²
+#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDEBRASIL.jpg",Rede Brasil HD²
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364782
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDEBRASIL.jpg",Rede Brasil SD
+#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDEBRASIL.jpg",Rede Brasil SD
 http://m.70.ms:80/Ezequiel521/20202019Tv/70
 #EXTINF:-1 group-title="Canais | Desenhos" ,Unknown_1
 http://uniplay.proxytv.in:80/leonardo4249/a980069/217926
