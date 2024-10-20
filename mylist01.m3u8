@@ -709,25 +709,25 @@ http://uniplay.proxytv.in:80/leonardo4249/a980069/390573
 http://uniplay.proxytv.in:80/leonardo4249/a980069/390577
 #EXTINF:-1 tvg-id="" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/SBT.png",SBT+ TVZYN
 http://uniplay.proxytv.in:80/leonardo4249/a980069/390582
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP FHD
+#EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/35753
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP UHD
+#EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/289882
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP HD
+#EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/289883
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP HD²
+#EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP HD²
 http://uniplay.proxytv.in:80/leonardo4249/a980069/289884
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP SD
+#EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/289885
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste FHD
+#EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste FHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/2431
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste UHD
+#EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/363199
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste HD
+#EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/2430
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste HD²
+#EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste HD²
 http://uniplay.proxytv.in:80/leonardo4249/a980069/363202
-#EXTINF:-1 tvg-id="Globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste SD
+#EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste SD
 http://m.70.ms:80/Ezequiel521/20202019Tv/122201
 #EXTINF:-1 tvg-id="Tvtem.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV TEM Bauru FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/122229
@@ -859,27 +859,27 @@ http://uniplay.proxytv.in:80/leonardo4249/a980069/80172
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364677
 #EXTINF:-1 tvg-id="Redetvsp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/REDETV!.png",Rede TV SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/80173
-#EXTINF:-1 tvg-id="Tvbrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVBRASIL.png",TV Brasil FHD
+#EXTINF:-1 tvg-id="tvbrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVBRASIL.png",TV Brasil FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/100493
-#EXTINF:-1 tvg-id="Tvbrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVBRASIL.png",TV Brasil UHD
+#EXTINF:-1 tvg-id="tvbrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVBRASIL.png",TV Brasil UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364679
-#EXTINF:-1 tvg-id="Tvbrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVBRASIL.png",TV Brasil HD
+#EXTINF:-1 tvg-id="tvbrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVBRASIL.png",TV Brasil HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/165
-#EXTINF:-1 tvg-id="Tvbrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVBRASIL.png",TV Brasil HD²
+#EXTINF:-1 tvg-id="tvbrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVBRASIL.png",TV Brasil HD²
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364680
-#EXTINF:-1 tvg-id="Tvbrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVBRASIL.png",TV Brasil SD
+#EXTINF:-1 tvg-id="tvbrasil.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVBRASIL.png",TV Brasil SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364681
-#EXTINF:-1 tvg-id="TVGazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP FHD
+#EXTINF:-1 tvg-id="tvgazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/35406
-#EXTINF:-1 tvg-id="TVGazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP UHD
+#EXTINF:-1 tvg-id="tvgazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364682
-#EXTINF:-1 tvg-id="TVGazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP H265
+#EXTINF:-1 tvg-id="tvgazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP H265
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364684
-#EXTINF:-1 tvg-id="TVGazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP HD
+#EXTINF:-1 tvg-id="tvgazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/174
-#EXTINF:-1 tvg-id="TVGazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP HD²
+#EXTINF:-1 tvg-id="tvgazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP HD²
 http://uniplay.proxytv.in:80/leonardo4249/a980069/364683
-#EXTINF:-1 tvg-id="TVGazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP SD
+#EXTINF:-1 tvg-id="tvgazeta.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVGAZETA.png",TV Gazeta SP SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/173
 #EXTINF:-1 tvg-id="Tvsenado.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/TVSENADO.png",Tv Senado FHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/217049
@@ -979,11 +979,11 @@ http://uniplay.proxytv.in:80/leonardo4249/a980069/367322
 http://uniplay.proxytv.in:80/leonardo4249/a980069/366
 #EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/NICKELODEON.png",Nickelodeon FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/21125
-#EXTINF:-1 tvg-id="nickelodeon.br"" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/NICKELODEON.png",Nickelodeon UHD
+#EXTINF:-1 tvg-id="nickelodeon.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/NICKELODEON.png",Nickelodeon UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/21263
 #EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/NICKELODEON.png",Nickelodeon HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/371
-#EXTINF:-1 tvg-id="nickelodeon.br"" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/NICKELODEON.png",Nickelodeon HD²
+#EXTINF:-1 tvg-id="nickelodeon.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/NICKELODEON.png",Nickelodeon HD²
 http://uniplay.proxytv.in:80/leonardo4249/a980069/367323
 #EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/NICKELODEON.png",Nickelodeon SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/370
