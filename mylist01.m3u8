@@ -909,33 +909,33 @@ http://m.70.ms:80/Ezequiel521/20202019Tv/70
 http://uniplay.proxytv.in:80/leonardo4249/a980069/217926
 #EXTINF:-1 tvg-id="BabyTV.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/BABYTV.png",Baby TV SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/349
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network FHD
+#EXTINF:-1 tvg-id="CartoonNetwork.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/6965
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network UHD
+#EXTINF:-1 tvg-id="CartoonNetwork.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/21230
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network HD
+#EXTINF:-1 tvg-id="CartoonNetwork.br"group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/351
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network HD²
+#EXTINF:-1 tvg-id="CartoonNetwork.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network HD²
 http://uniplay.proxytv.in:80/leonardo4249/a980069/367317
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network SD
+#EXTINF:-1 tvg-id="CartoonNetwork.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png",Cartoon Network SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/350
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png",Cartoonito FHD
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png",Cartoonito FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/6967
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png",Cartoonito UHD
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png",Cartoonito UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/368110
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png",Cartoonito HD
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png",Cartoonito HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/110684
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png",Cartoonito HD²
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png",Cartoonito HD²
 http://uniplay.proxytv.in:80/leonardo4249/a980069/368111
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids FHD
+#EXTINF:-1 tvg-id="DiscoveryKids.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/6956
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids UHD
+#EXTINF:-1 tvg-id="DiscoveryKids.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/367319
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids HD
+#EXTINF:-1 tvg-id="DiscoveryKids.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/363
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids HD²
+#EXTINF:-1 tvg-id="DiscoveryKids.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids HD²
 http://uniplay.proxytv.in:80/leonardo4249/a980069/367320
-#EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids SD
+#EXTINF:-1 tvg-id="DiscoveryKids.br" group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYKIDS.png",Discovery Kids SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/362
 #EXTINF:-1 group-title="Canais | Desenhos" tvg-logo="http://storage4you.net:2095/logoscanais/DISNEYCHANNEL.png",Disney Channel UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/360
