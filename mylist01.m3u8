@@ -1643,11 +1643,11 @@ http://uniplay.proxytv.in:80/leonardo4249/a980069/736
 http://uniplay.proxytv.in:80/leonardo4249/a980069/737
 #EXTINF:-1 tvg-id="tntseries.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png",TNT Series SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/735
-#EXTINF:-1 tvg-id="Tntnovelas.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png",TNT Novelas FHD
-http://m.70.ms:80/Ezequiel521/20202019Tv/7050
-#EXTINF:-1 tvg-id="Tntnovelas.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png",TNT Novelas  HD
-http://uniplay.proxytv.in:80/leonardo4249/a980069/264556
-#EXTINF:-1 tvg-id="Tntnovelas.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png",TNT Novelas  SD
+#EXTINF:-1 tvg-id="tbs.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png",TNT Novelas FHD
+http://m.70.ms:80/Ezequiel521/20202019Tv/226258
+#EXTINF:-1 tvg-id="tbs.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png",TNT Novelas  HD
+http://m.70.ms:80/Ezequiel521/20202019Tv/226259
+#EXTINF:-1 tvg-id="tbs.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/TNT.png",TNT Novelas  SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/264557
 #EXTINF:-1 tvg-id="universal.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png",Universal TV FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/6919
