@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/vinighomes/projectmd/refs/heads/main/templates/xmltv.xml"
 #EXTINF:-1 tvg-id="" group-title="Canais | 24H" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png" ,[24H] Tokusato
 http://uniplay.proxytv.in:80/leonardo4249/a980069/388486
 #EXTINF:-1 tvg-id="" group-title="Canais | 24H" tvg-logo="http://storage4you.net:2095/logoscanais/SERIES-24-HORAS.png",[24H] Pegadinhas Joao kleber
