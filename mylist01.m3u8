@@ -1513,13 +1513,13 @@ http://uniplay.proxytv.in:80/leonardo4249/a980069/705
 http://uniplay.proxytv.in:80/leonardo4249/a980069/706
 #EXTINF:-1 tvg-id="space.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png",Space SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/704
-#EXTINF:-1 tvg-id="star.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel FHD
+#EXTINF:-1 tvg-id="Star.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/6951
-#EXTINF:-1 tvg-id="star.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel UHD
+#EXTINF:-1 tvg-id="Star.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel UHD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/21238
-#EXTINF:-1 tvg-id="star.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel HD
+#EXTINF:-1 tvg-id="Star.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel HD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/597
-#EXTINF:-1 tvg-id="star.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel SD
+#EXTINF:-1 tvg-id="Star.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel SD
 http://uniplay.proxytv.in:80/leonardo4249/a980069/596
 #EXTINF:-1 tvg-id="studiouniversal.br" group-title="Canais | Filmes & Series" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png",Studio Universal FHD
 http://m.70.ms:80/Ezequiel521/20202019Tv/6929
@@ -2559,9 +2559,9 @@ http://uniplay.proxytv.in:80/leonardo4249/a980069/368851
 http://m.70.ms:80/Ezequiel521/20202019Tv/28585
 #EXTINF:-1 tvg-id="axn.br" group-title="Canais | Legendados" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png",AXN FHD [LEG ]
 http://uniplay.proxytv.in:80/leonardo4249/a980069/118892
-#EXTINF:-1 tvg-id="star.br" group-title="Canais | Legendados" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel FHD [LEG ]
+#EXTINF:-1 tvg-id="Star.br" group-title="Canais | Legendados" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel FHD [LEG ]
 http://m.70.ms:80/Ezequiel521/20202019Tv/28583
-#EXTINF:-1 tvg-id="star.br" group-title="Canais | Legendados" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel HD [LEG ]
+#EXTINF:-1 tvg-id="Star.br" group-title="Canais | Legendados" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png",Star Channel HD [LEG ]
 http://uniplay.proxytv.in:80/leonardo4249/a980069/118893
 #EXTINF:-1 tvg-id="hbo.br" group-title="Canais | Legendados" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png",HBO FHD [LEG ]
 http://m.70.ms:80/Ezequiel521/20202019Tv/95580
