@@ -710,31 +710,22 @@ http://uniplay.proxytv.in:80/leonardo4249/a980069/390577
 #EXTINF:-1 tvg-id="" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/SBT.png",SBT+ TVZYN
 http://uniplay.proxytv.in:80/leonardo4249/a980069/390582
 #EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP FHD
-#EXTVLCOPT:http-user-agent=Firefox
 http://m.70.ms:80/Ezequiel521/20202019Tv/35753
 #EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP UHD
-#EXTVLCOPT:http-user-agent=Firefox
 http://uniplay.proxytv.in:80/leonardo4249/a980069/289882
 #EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP HD
-#EXTVLCOPT:http-user-agent=Firefox
 http://uniplay.proxytv.in:80/leonardo4249/a980069/289883
 #EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP HD²
-#EXTVLCOPT:http-user-agent=Firefox
 http://uniplay.proxytv.in:80/leonardo4249/a980069/289884
 #EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo SP SD
-#EXTVLCOPT:http-user-agent=Firefox
 http://uniplay.proxytv.in:80/leonardo4249/a980069/289885
 #EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste FHD
-#EXTVLCOPT:http-user-agent=Firefox
 http://uniplay.proxytv.in:80/leonardo4249/a980069/2431
 #EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste UHD
-#EXTVLCOPT:http-user-agent=Firefox
 http://uniplay.proxytv.in:80/leonardo4249/a980069/363199
 #EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste HD
-#EXTVLCOPT:http-user-agent=Firefox
 http://uniplay.proxytv.in:80/leonardo4249/a980069/2430
 #EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste HD²
-#EXTVLCOPT:http-user-agent=Firefox
 http://uniplay.proxytv.in:80/leonardo4249/a980069/363202
 #EXTINF:-1 tvg-id="globosp.br" group-title="Canais | Abertos" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png",Globo TV Sudoeste SD
 http://m.70.ms:80/Ezequiel521/20202019Tv/122201
